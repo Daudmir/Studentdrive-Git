@@ -153,7 +153,6 @@ h2{
 }
 p{
     margin:15px;
-    display:inline-flex;
     text-align: left;
 }
 #add p{
@@ -166,6 +165,7 @@ p{
 }
 #add img{
 width:40%;
+margin-bottom: 20px;
 }
 .gbox{
     background-color:#97ab93;
@@ -176,7 +176,7 @@ width:40%;
 .gbox img{
     width:50px;
     margin:2px;
-    display:inline-block;
+    display:inline-flex;
     vertical-align:middle;
 }
 .gboxcon{
