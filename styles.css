@@ -82,8 +82,8 @@ ul{
   }
 li{
     display:inline;
-    margin-right:5%;
-    margin-left:5%;
+    margin-right:2%;
+    margin-left:2%;
   }
 a{
     text-transform:uppercase;
@@ -137,6 +137,13 @@ main{
     justify-content: center;
     flex-direction: column;
 }
+main img{
+    display:inline-flex;
+    width:80%;
+    margin-left:10%;
+    margin-right:10%;
+}
+
 h1{
     font-size:28px;
     text-align:left;
@@ -146,6 +153,8 @@ h2{
 }
 p{
     margin:15px;
+    display:inline-flex;
+    text-align: left;
 }
 #add p{
     margin:0px;
