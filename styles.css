@@ -175,6 +175,12 @@ margin-bottom: 20px;
     padding-bottom:20px;
     margin-top: 20px;
 }
+
+.cent {
+    display: block;
+    margin: 0 auto;
+    
+}
 .gbox img{
     width:50px;
     margin:2px;
