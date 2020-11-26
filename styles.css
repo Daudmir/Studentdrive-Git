@@ -115,7 +115,7 @@ a:active{
   }
 #add{
     grid-area:add;
-    background-color:burlywood;
+    display:inline-flex;
 }
 main{
     grid-area:main;
